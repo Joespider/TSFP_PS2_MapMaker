@@ -18,11 +18,11 @@ This project is a way of creating an unofficial sequal to TimeSplitters Future P
     - Future Perfect? [unknowm]
     - Resistance Is Futile [Bunker]
     - Pseudo-Cortez [Lab]
-    - Finding Pseudo-Cortez [Bunker]
+    - Locating Pseudo-Cortez [Bunker]
     - What Has Become of Me? [Horror]
     - The Uncovering [Horror]
-    - Join Us [Horror]
-    - Time 2 Split [Lab]
+    - Join Us [Lab]
+    - Time 2 Split [Horror]
 
 * Story (Levels In Order)
     1) Future Perfect?
@@ -34,6 +34,6 @@ This project is a way of creating an unofficial sequal to TimeSplitters Future P
     7) What Has Become of Me?
     8) The Uncovering
     9) Time 2 Split
-    10) Finding Pseudo-Cortez
+    10) Locating Pseudo-Cortez
     11) Pseudo-Cortez
     12) Paradox
