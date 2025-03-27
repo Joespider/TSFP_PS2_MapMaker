@@ -20,17 +20,20 @@ This project is a way of creating an unofficial sequal to TimeSplitters Future P
     - Pseudo-Cortez [Lab]
     - Finding Pseudo-Cortez [Bunker]
     - What Has Become of Me? [Horror]
+    - The Uncovering [Horror]
+    - Join Us [Horror]
+    - My Escape [Lab]
 
 * Story (Levels In Order)
-    - Future Perfect?
-    - Future Imperfect
-    - What Has Become of Me?
-    - Into Darkness
-    - Danger In Sight
-    - Resistance Is Futile
-    - TBD
-    - TBD
-    - TBD
-    - Finding Pseudo-Cortez
-    - Pseudo-Cortez
-    - Paradox
+    - 1) Future Perfect?
+    - 2) Future Imperfect
+    - 3) Into Darkness
+    - 4) Danger In Sight
+    - 5) Resistance Is Futile
+    - 6) Join Us
+    - 7) What Has Become of Me?
+    - 8) The Uncovering
+    - 9) Time 2 Split
+    - 10) Finding Pseudo-Cortez
+    - 11) Pseudo-Cortez
+    - 12) Paradox
